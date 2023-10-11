@@ -6,5 +6,3 @@ You can use these templates for preprocessing your data!😉
 
 For testing it out use the [Data.csv](https://github.com/IAMSAGAYAABINESH/Machine-Learning-Preprocessing-Template/files/12332967/Data.csv) file in ther preprocessing template
 
-
-![download (1)](https://github.com/IAMSAGAYAABINESH/Machine-Learning-Preprocessing-Template/assets/76099682/fcea08b0-c94f-47a9-a542-66e37264f8c1)
